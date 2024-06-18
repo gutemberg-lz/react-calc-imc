@@ -74,6 +74,15 @@ const App = () => {
           )}
         </div>
       </div>
+      <footer>
+        <p>Criado e desenvolvido por <code>gutemberg_lz</code></p>
+        <div>
+          <ul>
+            <li>ajuda</li>
+            <li>Api</li>
+          </ul>
+        </div>
+      </footer>
     </div>
   );
 };
